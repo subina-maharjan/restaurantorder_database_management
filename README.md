@@ -1,2 +1,2 @@
 # restaurantorder_database_management
-A database for food delivery service. Features design, SQL schema, Python scripts for data import, Data Cleaning, Schema, GUIs for management &amp; analysis, and updates for delivery staff info. 
+This repository hosts a project as a part of coursework for Software Development and Database Management module aimed at developing a database system for a local food delivery service in the USA. It includes database design, SQL schema, Python scripts for data import, data cleaning, GUI interfaces for data management and analysis, and updates to incorporate delivery staff information. The project ensures data integrity, cleanliness, and provides user-friendly interfaces for database interaction and statistical analysis.
